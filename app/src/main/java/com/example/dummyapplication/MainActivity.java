@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("For second commit!!!");
         System.out.println("Error code");
+        System.out.println("Code in demo branch");
     }
 }
