@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Code in demo branch");
         System.out.println("Change in demo");
         System.out.println("Change in demo2");
+        System.out.println("Change for remote in demo branch");
     }
 }
