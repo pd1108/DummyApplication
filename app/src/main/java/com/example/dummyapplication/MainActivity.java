@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("For second commit!!!");
-        System.out.println("Erroneous code!!!");
+        System.out.println("Error code");
     }
 }
