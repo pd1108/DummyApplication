@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("For second commit!!!");
         System.out.println("Error code");
         System.out.println("Code in demo branch");
-        System.out.println("Change in master");
-        System.out.println("Change in master2");
+        System.out.println("Change in demo");
+        System.out.println("Change in demo2");
     }
 }
